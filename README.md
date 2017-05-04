@@ -1,2 +1,2 @@
 # EPW2WEA
-Convert EPW file to WEA file
+Convert EPW file to WEA file.
